@@ -1,0 +1,7 @@
+fastapi[standard]
+slowapi
+pydantic
+postgres
+uvicorn
+gunicorn
+python-dotenv
